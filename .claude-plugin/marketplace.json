@@ -1,0 +1,5 @@
+{
+  "name": "rtl-fix",
+  "owner": { "name": "Qaemi66" },
+  "plugins": [{ "name": "rtl-fix", "source": "./" }]
+}

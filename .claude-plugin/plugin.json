@@ -1,0 +1,6 @@
+{
+  "name": "rtl-fix",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Right-aligns Persian/Arabic paragraphs and left-aligns English ones in assistant replies, even when a line opens with a word of the other script."
+}
